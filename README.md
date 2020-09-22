@@ -1,2 +1,102 @@
-# Victor-Portfolio
-&lt;!DOCTYPE html> &lt;html lang="en"> &lt;head>     &lt;meta name="viewport" content="width=device-width, initial-scale=1.0">     &lt;title>Jayne Doe&lt;/title>     &lt;link rel="stylesheet" href="Portfolio.css"> &lt;/head> &lt;body>      &lt;div class="wrapper">          &lt;div class = "header">             &lt;h1>Jayne Doe&lt;/h1>             &lt;h2>Master of Shadows and the Internet&lt;/h2>         &lt;/div>          &lt;div class = "Biography">                 &lt;img src="photo_of_me.jpg" alt="photo_of_me">             &lt;div class="About">                 &lt;h2>About&lt;/h2>                 &lt;p>Hello! I'm an extremely driven and creative Full Stack Developer who is currently open for career oppurtunities as a front-end or back-end web developer in the Greater Seattle Area.&lt;/p>                 &lt;br>                 &lt;p>I'm a recent graduate of Coding Dojo, a coding school located in Bellevue, WA that teaches 3 full stacks in 3 months. I'm capable of learning new technologies very quickly, and am always looking for opportunities to further expand my skills and grow as a developer. &lt;a href="#">Continue Reading&lt;/a>&lt;/p>             &lt;/div>         &lt;/div>                  &lt;div class="FlexBoxes">             &lt;div class="Col">                 &lt;h3 class="Tag">La Mode&lt;/h3>                 &lt;div class="Personal_Image1">                     &lt;img src="lamode.png" alt="lamode" class="Personal" >                      &lt;p>La Mode is an Ecommerce website for designed to market various clothing products. Users are able to view the available garments, select their desired quantity, and complie a shopping cart for making a final purchase. &lt;/p>                         &lt;div class="Tech_Buttons">                             &lt;h1>Technology&lt;/h1>                             &lt;img src="JavaScript.png" alt="JavaScript" class= "Techs">                             &lt;img src="ajax.png" alt="ajax" class= "Techs">                             &lt;img src="bootstrap.png" alt="bootstrap" class= "Techs" >                             &lt;img src="angular.png" alt="angular" class= "Techs">                             &lt;img src="c-sharp.png" alt="c-sharp" class= "Techs">                             &lt;img src="codeigniter.png" alt="codeigniter" class= "Techs">                             &lt;img src="codepen.png" alt="codepen" class= "Techs">                             &lt;img src="CSS.png" alt="CSS" class= "Techs">                             &lt;button>La Mode&lt;/button>                         &lt;/div>                 &lt;/div>             &lt;/div>                                   &lt;div class="Col">                     &lt;h3 class="Tag">Family Contacts&lt;/h3>                     &lt;img src="familycontacts.png" alt="family_contacts" class="Personal">                      &lt;p>Family Contacts is a free application  for managing, sharing, and visualizing your family relationships for both extended and immediate family. As an essential feature of the the project, your log-in information determines who you can see and reveals how people are related to you.&lt;/p>                             &lt;div class="Tech_Buttons2">                                 &lt;h1>Technology&lt;/h1>                                 &lt;img src="d3.png" alt="d3" class= "Techs">                                 &lt;img src="django.png" alt="django"class= "Techs" >                                 &lt;img src="expressjs.png" alt="expressjs" class= "Techs">                                 &lt;img src="HTML.png" alt="HTML" class= "Techs" >                                 &lt;img src="iOS-Swift.png" alt="iOS-Swift" class= "Techs">                                 &lt;img src="jQuery.png" alt="jQuery" class= "Techs">                                 &lt;img src="LAMP.png" alt="LAMP" class= "Techs">                                 &lt;img src="materialize.png" alt="materialize" class= "Techs">                                 &lt;img src="MEAN.png" alt="MEAN" class= "Techs">                                 &lt;button>Family_Contact&lt;/button>                             &lt;/div>                 &lt;/div>                                                   &lt;div class="Col">                     &lt;h3 class="Tag">five Eleven&lt;/h3>                     &lt;img src="fiveEleven.png" alt="fiveEleven"class="Personal" >                     &lt;p>Five Eleven is a data visualization project built on the Python software stack.  The application transforms the developer job-hunt into a more visual, user friendly experience. Based on location, technology popularity, and the other vast data sets, users may easily visualize the varying sizes and concentrations of the junior developer job market across nation.&lt;/p>                     &lt;div class="Tech_Buttons3">                         &lt;h1>Technology&lt;/h1>                         &lt;img src="mongodb.png" alt="mongodb" class= "Techs">                         &lt;img src="mysql.png" alt="mysql" class= "Techs">                         &lt;img src="nodejs.png" alt="nodejs" class= "Techs">                         &lt;img src="php.png" alt="php" class= "Techs">                         &lt;img src="python.png" alt="python" class= "Techs">                         &lt;img src="RUBY.png" alt="RUBY" class= "Techs">                         &lt;img src="sqlite.png" alt="sqlite" class= "Techs">                         &lt;img src="socket.png" alt="socket"class= "Techs" >                         &lt;button>fiveEleven&lt;/button>                     &lt;/div>                 &lt;/div>         &lt;/div>                         &lt;div class="Footer">                 &lt;div class="p1">                     &lt;p>jdoe@gmail.com | 555-555-5555&lt;sP>                                                          &lt;/div>                 &lt;p class="p2">&lt;img src="github.png" jaynedev width=40px; height=40px; alt="github">                 &lt;class="p2">&lt;img src="linkedin.png" jaynedev width=40px; height=40px; alt="linkedin">&lt;class="p2">&lt;img src="twitter.png" jaynedevwidth=40px; height=40px;alt="twitter">&lt;class="p2">&lt;img src="codepen.png" jaynedev width=40px; height=40px; alt="codepen">&lt;/p>                 &lt;/div>             &lt;/div>                &lt;/body>  &lt;/html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jayne Doe</title>
+    <link rel="stylesheet" href="Portfolio.css">
+</head>
+<body>
+
+    <div class="wrapper">
+
+        <div class = "header">
+            <h1>Jayne Doe</h1>
+            <h2>Master of Shadows and the Internet</h2>
+        </div>
+
+        <div class = "Biography">
+                <img src="photo_of_me.jpg" alt="photo_of_me">
+            <div class="About">
+                <h2>About</h2>
+                <p>Hello! I'm an extremely driven and creative Full Stack Developer who is currently open for career oppurtunities as a front-end or back-end web developer in the Greater Seattle Area.</p>
+                <br>
+                <p>I'm a recent graduate of Coding Dojo, a coding school located in Bellevue, WA that teaches 3 full stacks in 3 months. I'm capable of learning new technologies very quickly, and am always looking for opportunities to further expand my skills and grow as a developer. <a href="#">Continue Reading</a></p>
+            </div>
+        </div>
+        
+        <div class="FlexBoxes">
+            <div class="Col">
+                <h3 class="Tag">La Mode</h3>
+                <div class="Personal_Image1">
+                    <img src="lamode.png" alt="lamode" class="Personal" > 
+                    <p>La Mode is an Ecommerce website for designed to market various clothing products. Users are able to view the available garments, select their desired quantity, and complie a shopping cart for making a final purchase. </p>
+                        <div class="Tech_Buttons">
+                            <h1>Technology</h1>
+                            <img src="JavaScript.png" alt="JavaScript" class= "Techs">
+                            <img src="ajax.png" alt="ajax" class= "Techs">
+                            <img src="bootstrap.png" alt="bootstrap" class= "Techs" >
+                            <img src="angular.png" alt="angular" class= "Techs">
+                            <img src="c-sharp.png" alt="c-sharp" class= "Techs">
+                            <img src="codeigniter.png" alt="codeigniter" class= "Techs">
+                            <img src="codepen.png" alt="codepen" class= "Techs">
+                            <img src="CSS.png" alt="CSS" class= "Techs">
+                            <button>La Mode</button>
+                        </div>
+                </div>
+            </div> 
+                
+                <div class="Col">
+                    <h3 class="Tag">Family Contacts</h3>
+                    <img src="familycontacts.png" alt="family_contacts" class="Personal"> 
+                    <p>Family Contacts is a free application  for managing, sharing, and visualizing your family relationships for both extended and immediate family. As an essential feature of the the project, your log-in information determines who you can see and reveals how people are related to you.</p>
+                            <div class="Tech_Buttons2">
+                                <h1>Technology</h1>
+                                <img src="d3.png" alt="d3" class= "Techs">
+                                <img src="django.png" alt="django"class= "Techs" >
+                                <img src="expressjs.png" alt="expressjs" class= "Techs">
+                                <img src="HTML.png" alt="HTML" class= "Techs" >
+                                <img src="iOS-Swift.png" alt="iOS-Swift" class= "Techs">
+                                <img src="jQuery.png" alt="jQuery" class= "Techs">
+                                <img src="LAMP.png" alt="LAMP" class= "Techs">
+                                <img src="materialize.png" alt="materialize" class= "Techs">
+                                <img src="MEAN.png" alt="MEAN" class= "Techs">
+                                <button>Family_Contact</button>
+                            </div>
+                </div>
+                
+                
+                <div class="Col">
+                    <h3 class="Tag">five Eleven</h3>
+                    <img src="fiveEleven.png" alt="fiveEleven"class="Personal" >
+                    <p>Five Eleven is a data visualization project built on the Python software stack.  The application transforms the developer job-hunt into a more visual, user friendly experience. Based on location, technology popularity, and the other vast data sets, users may easily visualize the varying sizes and concentrations of the junior developer job market across nation.</p>
+                    <div class="Tech_Buttons3">
+                        <h1>Technology</h1>
+                        <img src="mongodb.png" alt="mongodb" class= "Techs">
+                        <img src="mysql.png" alt="mysql" class= "Techs">
+                        <img src="nodejs.png" alt="nodejs" class= "Techs">
+                        <img src="php.png" alt="php" class= "Techs">
+                        <img src="python.png" alt="python" class= "Techs">
+                        <img src="RUBY.png" alt="RUBY" class= "Techs">
+                        <img src="sqlite.png" alt="sqlite" class= "Techs">
+                        <img src="socket.png" alt="socket"class= "Techs" >
+                        <button>fiveEleven</button>
+                    </div>
+                </div>
+        </div>
+        
+
+
+
+            <div class="Footer">
+                <div class="p1">
+                    <p>jdoe@gmail.com | 555-555-5555<sP>                    
+                    
+                </div>
+                <p class="p2"><img src="github.png" jaynedev width=40px; height=40px; alt="github">
+                <class="p2"><img src="linkedin.png" jaynedev width=40px; height=40px; alt="linkedin"><class="p2"><img src="twitter.png" jaynedevwidth=40px; height=40px;alt="twitter"><class="p2"><img src="codepen.png" jaynedev width=40px; height=40px; alt="codepen"></p>
+                </div>
+            </div>      
+
+        </body>
+
+</html>
