@@ -1,0 +1,111 @@
+*{
+    margin: 0px;    
+    padding: 0px;
+}
+
+.container {
+    width: 1000px;
+    background-color: #1a1a1a;
+    color: gray;
+}
+
+.header {
+    background-color: #1a1a1a;
+    color: #d8d8d8;
+
+}
+
+.header h1 {
+    display: inline-block;
+    margin-left: 500 px;
+}
+
+.header h2 {
+    display: inline-block;
+    margin-left: 500px;
+}
+.Blog p {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.header img{
+    vertical-align: top;
+    border: silver 20px;
+}
+
+
+
+
+
+button{
+    background-color: orange;
+    margin-right: 20px;
+}
+
+
+
+.Portfolio p1 {
+    margin-left: 500px;
+    display: inline-block;
+    width: 200px;
+}
+.Portfolio p {
+    
+    margin-top: 30px;
+}
+
+
+
+.Built p {
+    display: inline-block;
+    color: Silver;
+    border-left: 40px;
+    margin: 40px;
+    margin-bottom: 10x;
+}
+
+.Bottom p {
+    display: inline-block;
+    color: Silver;
+    width: 200px;
+    
+}
+
+.Images img {
+    margin-right: 10px;
+
+}
+
+.lower_cols{
+    display: inline-block;
+    width: 20%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.orangeTitle {
+    color: orange;
+}
+
+.Bid {
+    margin-top: 30px;
+}
+
+.upper {
+    display: inline-block;
+    width: 20%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.upper h5{
+    color: orange;
+    display: inline-block;
+}
+
+.upper img{
+    vertical-align: middle;
+}
