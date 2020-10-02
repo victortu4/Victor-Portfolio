@@ -1,10 +1,10 @@
+
 *{
-    margin: 0px;    
-    padding: 0px;
+	margin:0px;
+	padding:0px;
 }
 
 .container {
-    width: 1000px;
     background-color: #1a1a1a;
     color: gray;
 }
@@ -12,7 +12,7 @@
 .header {
     background-color: #1a1a1a;
     color: #d8d8d8;
-
+	margin-left:2%;
 }
 
 .header h1 {
@@ -22,11 +22,19 @@
 
 .header h2 {
     display: inline-block;
-    margin-left: 500px;
+	margin-left:66%;
+	margin-top:2%;
+    margin-right:2%;
 }
 .Blog p {
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 2%;
+}
+
+.Blog img{
+	display: block;
+	width: 96%;
+	margin-left:2%;
 }
 
 .header img{
@@ -41,6 +49,7 @@
 button{
     background-color: orange;
     margin-right: 20px;
+	margin-left:2%;
 }
 
 
@@ -80,8 +89,7 @@ button{
 .lower_cols{
     display: inline-block;
     width: 20%;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left:4% ;
     margin-top: 10px;
 }
 
@@ -96,16 +104,18 @@ button{
 .upper {
     display: inline-block;
     width: 20%;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 4%;
+    
     margin-top: 10px;
 }
 
 .upper h5{
     color: orange;
     display: inline-block;
+	margin-left:2%;
 }
 
 .upper img{
     vertical-align: middle;
+	width : 20%;
 }
