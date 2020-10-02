@@ -40,7 +40,7 @@
                             <img src="codeigniter.png" alt="codeigniter" class= "Techs">
                             <img src="codepen.png" alt="codepen" class= "Techs">
                             <img src="CSS.png" alt="CSS" class= "Techs">
-                            <button>La Mode</button>
+                            <button class="btn btn-primary" type="submit" name="submi">La Mode</button>
                         </div>
                 </div>
             </div> 
